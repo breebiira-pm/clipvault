@@ -203,7 +203,8 @@ npm run dev
 - [Clip-Vault Prototype](https://clip-vault-ease.lovable.app/)
 
 ### 2. System Architecture
-- [Architecture Diagram](https://miro.com/app/board/uXjVJ48aP6g=/?share_link_id=143480897031)
+- [Architecture Diagram (View on Miro)](https://miro.com/app/board/uXjVJ48aP6g=/?share_link_id=143480897031)
+- [Architecture Diagram (Image)](architecture_diagram/clipvault_architecture.png)
 
 ### 3. Database
 - [Database Tables Screenshot](database_diagrams/clipvault_database.png)
