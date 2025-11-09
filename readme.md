@@ -201,14 +201,25 @@ npm run dev
 
 ### 1. Live Prototype
 - [Clip-Vault Prototype](https://clip-vault-ease.lovable.app/)
+- Screenshots:
+  - [Welcome Screen](prototype_screenshots/welcome_screen.png)
+  - [Dashboard](prototype_screenshots/dashboard_screen.png)
+  - [Floating Bubble](prototype_screenshots/floating_bubble.png)
+  - [Quick Access Panel](prototype_screenshots/quick_access_panel.png)
+  - [Collections Screen](prototype_screenshots/collections_screen.png)
+  - [Settings Screen](prototype_screenshots/settings_screen.png)
 
 ### 2. System Architecture
 - [Architecture Diagram (View on Miro)](https://miro.com/app/board/uXjVJ48aP6g=/?share_link_id=143480897031)
-- [Architecture Diagram (Image)](architecture_diagram/clipvault_architecture.png)
+- [Architecture Diagram (Image)](systemarchitecture_screenhot/clipvault_systemArchitecturee.png)
 
 ### 3. Database
-- [Database Tables Screenshot](database_diagrams/clipvault_database.png)
-- SQL Scripts used to create tables are included in `database_sql/` folder
+- Database Tables:
+  - [SQL Query](database_screenshots/sql_query.png)
+  - [Actions Table](database_screenshots/table_actions.png)
+  - [Clips Table](database_screenshots/table_clips.png)
+  - [Clip User Table](database_screenshots/table_clipuser.png)
+  - [Collections Table](database_screenshots/table_collections.png)
 
 ---
 
