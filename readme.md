@@ -1,7 +1,3 @@
-Readme 
-
-
-```markdown
 # Clip-Vault
 
 > **Copy once. Access forever.**  
@@ -9,7 +5,7 @@ Readme
 
 ---
 
-## 📖 What is Clip-Vault?
+## What is Clip-Vault?
 
 Clip-Vault is a **floating clipboard manager** that automatically saves everything you copy—text, links, images, and code—making your clipboard history instantly accessible without breaking your workflow.
 
@@ -21,7 +17,7 @@ Clip-Vault is a **floating clipboard manager** that automatically saves everythi
 
 ---
 
-##  The Problem We're Solving
+## The Problem We're Solving
 
 **Copy-paste is broken for knowledge workers.**
 
@@ -41,7 +37,7 @@ This isn't just frustrating — **it's a productivity tax everyone pays daily.**
 
 ---
 
-##  How Clip-Vault Solves This
+## How Clip-Vault Solves This
 
 Clip-Vault works on three core principles:
 
@@ -58,7 +54,7 @@ Tap the bubble → see your last 5 clips → tap to paste. **Total time: 2 secon
 
 ---
 
-##  Who It's For
+## Who It's For
 
 **Knowledge Workers & Analysts**  
 Copying data between spreadsheets and documents all day. Clip-Vault eliminates the endless "wait, where did I copy that from?" moments.
@@ -74,50 +70,50 @@ Reusing captions, hashtags, and templates constantly. Pin frequently-used conten
 
 ---
 
-##  Key Features
+## Key Features
 
-### ** Bubble Interface**
+### Bubble Interface
 - Always-on-top button visible across all apps
 - Draggable to any screen position
 - Subtle pulse animation when new content is captured
 
-### ** Unlimited Clipboard History**
+### Unlimited Clipboard History
 - Auto-saves every copy action instantly
 - Supports text, links, images, code snippets
 - Everything stored locally on your device
 
-### ** Quick Access Panel**
+### Quick Access Panel
 - Tap bubble to see your 5 most recent clips
 - One-tap to copy any item back to clipboard
 - Access in under 2 seconds
 
-### ** Smart Search**
+### Smart Search
 - Real-time search across all saved clips
 - Intelligent keyword matching
 - Results highlight matched terms
 
-### ** Pin Important Clips**
+### Pin Important Clips
 - Mark frequently-used content (templates, addresses, snippets)
 - Pinned clips never auto-delete
 - Always accessible at the top
 
-### ** Smart Collections**
+### Smart Collections
 - Auto-categorizes clips into Work, Research, Design, Personal
 - Keeps your history organized without manual effort
 
-### ** Lock Sensitive Clips**
+### Lock Sensitive Clips
 - Protect passwords and private info with a 4-digit PIN
 - AES-256 encryption
 - Locked clips require PIN to view
 
-### ** Easy Management**
+### Easy Management
 - Delete individual clips or clear all history
 - Auto-delete old clips after 30 days (configurable)
 - Export your data anytime
 
 ---
 
-##  Technology
+## Technology
 
 **Built with modern, proven technologies:**
 
@@ -133,14 +129,14 @@ For detailed technical architecture, see [systemArchitecture.md](systemArchitect
 
 ---
 
-##  Roadmap
+## Roadmap
 
 ### **Phase 1: MVP (Current Focus)**
--  Floating bubble interface
--  Automatic clipboard capture
--  Local storage with search
--  Smart collections
--  PIN-protected clips
+- Floating bubble interface
+- Automatic clipboard capture
+- Local storage with search
+- Smart collections
+- PIN-protected clips
 
 **Target:** Public launch for Windows, macOS, Linux
 
@@ -163,7 +159,7 @@ For detailed technical architecture, see [systemArchitecture.md](systemArchitect
 
 ---
 
-##  Privacy & Security
+## Privacy & Security
 
 ### **Our Privacy Promise**
 
@@ -181,7 +177,7 @@ Cloud sync is optional and uses end-to-end encryption — the server never sees 
 
 ---
 
-##  Contributing
+## Contributing
 
 Clip-Vault is currently in active development. We welcome:
 - **Bug reports** — Found an issue? [Open an issue](#)
@@ -201,7 +197,7 @@ npm install
 npm run dev
 ```
 
-##  Evidence of Functionality
+## Evidence of Functionality
 
 ### 1. Live Prototype
 - [ClickVault Prototype](https://clipvault.my.canva.site/)
@@ -213,16 +209,15 @@ npm run dev
 - [Database Tables Screenshot](database_diagrams/clipvault_database.png)
 - SQL Scripts used to create tables are included in `database_sql/` folder
 
+---
 
------
-
-##  License
+## License
 
 Clip-Vault is released under the [MIT License](LICENSE).
 
------
+---
 
-##  Acknowledgments
+## Acknowledgments
 
 Built with love by [Bree PM](https://github.com/breebiira-pm)
 
@@ -238,31 +233,19 @@ Built with love by [Bree PM](https://github.com/breebiira-pm)
 - Beta testers providing invaluable feedback
 - The open-source community
 
------
+---
 
-##  Contact
+## Contact
 
 - **GitHub:** [github.com/breebiira-pm/clipvault](https://github.com/breebiira-pm/clipvault)
 - **Email:** [biirabridgetb@gmail.com](mailto:biirabridgetb@gmail.com)
 
------
+---
 
 <div align="center">
 
 **Never lose what you copy again.**
 
-Made with  by productivity nerds, for productivity nerds.
+Made with love by productivity nerds, for productivity nerds.
 
 </div>
-```
-
------
-
-
-
-
-
-
-
-
-
