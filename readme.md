@@ -200,10 +200,10 @@ npm run dev
 ## Evidence of Functionality
 
 ### 1. Live Prototype
-- [ClickVault Prototype](https://clipvault.my.canva.site/)
+- [Clip-Vault Prototype](https://clip-vault-ease.lovable.app/)
 
 ### 2. System Architecture
-- [Architecture Diagram](architecture_diagram/clipvault_architecture.png)
+- [Architecture Diagram](https://miro.com/app/board/uXjVJ48aP6g=/?share_link_id=143480897031)
 
 ### 3. Database
 - [Database Tables Screenshot](database_diagrams/clipvault_database.png)
