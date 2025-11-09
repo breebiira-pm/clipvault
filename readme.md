@@ -9,7 +9,7 @@ Readme
 
 ---
 
-##  What is Clip-Vault?
+## 📖 What is Clip-Vault?
 
 Clip-Vault is a **floating clipboard manager** that automatically saves everything you copy—text, links, images, and code—making your clipboard history instantly accessible without breaking your workflow.
 
@@ -204,10 +204,7 @@ npm run dev
 ##  Evidence of Functionality
 
 ### 1. Live Prototype
-- [ClickVault Prototype](https://clip-vault-ease.lovable.app/demo)
-
-### 3. System Architecture Link
-- [Architecture Diagram Link](https://miro.com/app/board/uXjVJ48aP6g=/?share_link_id=584581330243)
+- [ClickVault Prototype](https://clipvault.my.canva.site/)
 
 ### 2. System Architecture
 - [Architecture Diagram](architecture_diagram/clipvault_architecture.png)
@@ -238,21 +235,28 @@ Built with love by [Bree PM](https://github.com/breebiira-pm)
 **Special thanks to:**
 
 - The 12 participants in our initial user research
+- Beta testers providing invaluable feedback
 - The open-source community
 
 -----
 
 ##  Contact
-For questions or feedback, reach out at
 
 - **GitHub:** [github.com/breebiira-pm/clipvault](https://github.com/breebiira-pm/clipvault)
-- ##Email:** [biirabridgetb@gmail.com](mailto:biirabridgetb@gmail.com)
+- **Email:** [biirabridgetb@gmail.com](mailto:biirabridgetb@gmail.com)
 
 -----
 
+<div align="center">
 
+**Never lose what you copy again.**
 
+Made with  by productivity nerds, for productivity nerds.
 
+</div>
+```
+
+-----
 
 
 
